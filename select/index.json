@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Danger",
+  "base_artist": "방탄소년단 (BTS)",
+  "createdAt": "2026-02-08T06:44:48.619932Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Danger $$$",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/01_Danger_$$$_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Danger $$$",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/02_Danger_$$$_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "피노키오 (Danger)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/03_피노키오_(Danger)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Danger (Been So Long) featuring Nivea",
+      "artist": "Mystikal",
+      "has_synced": true,
+      "path": "select/04_Danger_(Been_So_Long)_featuring_Nivea_Mystikal.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "In For The Kill (Danger Ocean Remix)",
+      "artist": "La Roux",
+      "has_synced": false,
+      "path": "select/05_In_For_The_Kill_(Danger_Ocean_Remix)_La_Roux.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Face Of Danger",
+      "artist": "Morcheeba",
+      "has_synced": true,
+      "path": "select/06_Face_Of_Danger_Morcheeba.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Danger Bird",
+      "artist": "Neil Young & Crazy Horse",
+      "has_synced": false,
+      "path": "select/07_Danger_Bird_Neil_Young_&_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Danger Bird",
+      "artist": "Neil Young with Crazy Horse",
+      "has_synced": false,
+      "path": "select/08_Danger_Bird_Neil_Young_with_Crazy_Horse.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Me & You - Danger Remix",
+      "artist": "Nero",
+      "has_synced": false,
+      "path": "select/09_Me_&_You_-_Danger_Remix_Nero.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Danger",
+      "artist": "Panda Bear feat. Sonic Boom",
+      "has_synced": true,
+      "path": "select/10_Danger_Panda_Bear_feat._Sonic_Boom.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Danger",
+      "artist": "Panda Bear",
+      "has_synced": true,
+      "path": "select/11_Danger_Panda_Bear.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Danger! High Voltage - Soulchild Radio Mix",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/12_Danger!_High_Voltage_-_Soulchild_Radio_Mix_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Danger! High Voltage",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/13_Danger!_High_Voltage_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Divine (Danger Remix)",
+      "artist": "Sébastien Tellier",
+      "has_synced": false,
+      "path": "select/14_Divine_(Danger_Remix)_Sébastien_Tellier.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Danger",
+      "artist": "BTS",
+      "has_synced": false,
+      "path": "select/pl_01_Danger_BTS.txt"
+    }
+  ]
+}
